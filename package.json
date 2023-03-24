@@ -2,7 +2,6 @@
   "name": "gedashboard",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://graphql.anilist.co",
   "dependencies": {
     "@chakra-ui/react": "^2.5.3",
     "@emotion/react": "^11.10.6",
